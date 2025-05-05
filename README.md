@@ -18,7 +18,7 @@
 🌱 Actualmente profundizando en **Java**, **Node.js** y mejores prácticas de desarrollo escalable.  
 
 ### 🔍 En Búsqueda De
-🏢 **Oportunidades profesionales** como Desarrollador Junior o pasantías en desarrollo web  
+🏢 **Oportunidades profesionales** como Desarrollador Junior
 🤝 **Colaboraciones técnicas** en proyectos open-source o iniciativas innovadoras  
 📚 **Mentoría** para acelerar mi crecimiento como ingeniero de software  
 
