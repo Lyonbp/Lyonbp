@@ -15,7 +15,7 @@
 **🎓 Estudiante de Ingeniería de Software** | **🚀 Aspirante a Full Stack Developer**
 
 💡 Apasionado por crear soluciones tecnológicas innovadoras en desarrollo web, con enfoque en JavaScript, React y arquitecturas backend.  
-🌱 Actualmente profundizando en **Node.js** y mejores prácticas de desarrollo escalable.  
+🌱 Actualmente profundizando en **Java**, **Node.js** y mejores prácticas de desarrollo escalable.  
 
 ### 🔍 En Búsqueda De
 🏢 **Oportunidades profesionales** como Desarrollador Junior o pasantías en desarrollo web  
