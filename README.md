@@ -20,7 +20,7 @@
 ### 🔍 En Búsqueda De
 🏢 **Oportunidades profesionales** como Desarrollador Software Junior     
 🤝 **Colaboraciones técnicas** en proyectos open-source o iniciativas innovadoras  
-📚 **Mentoría** para acelerar mi crecimiento como ingeniero de software  
+📚 **Mentoría** para acelerar mi crecimiento como Ingeniero de Software  
 
 ### 🌟 Destrezas Clave
 • Desarrollo Frontend con React  
