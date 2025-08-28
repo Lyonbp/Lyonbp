@@ -12,7 +12,7 @@
 # 💫 Sobre Mí
 
 ### 👨‍💻 Beckhan Pacheco (Lyonbp)
-**🎓 Estudiante de Ingeniería de Software** | **🚀 Full Stack Developer en proceso**
+**🎓 Estudiante de Ingeniería de Software** 
 
 💡 Apasionado por crear soluciones tecnológicas innovadoras en desarrollo web, con enfoque en JavaScript, React y arquitecturas backend.  
 🌱 Actualmente profundizando en **Java**, **Node.js** y mejores prácticas de desarrollo escalable.  
